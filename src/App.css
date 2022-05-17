@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Magista Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Magista Regular'), url('./fonts/Magista-nR3V4.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Codigra';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Codigra'),
+        url('./fonts/Codigra.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Monologue';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Monologue'),
+        url('./fonts/Monologue.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Getaway';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Getaway'),
+        url('./fonts/Getaway.otf') format('opentype');
+}
+
+body {
+    background-color: #FFF8EF;
+}
